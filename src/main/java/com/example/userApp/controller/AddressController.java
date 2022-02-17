@@ -1,7 +1,7 @@
-package com.example.demo.controller;
+package com.example.userApp.controller;
 
-import com.example.demo.model.Address;
-import com.example.demo.repository.AddressRepository;
+import com.example.userApp.model.Address;
+import com.example.userApp.repository.AddressRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;

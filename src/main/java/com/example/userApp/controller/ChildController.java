@@ -1,9 +1,9 @@
-package com.example.demo.controller;
+package com.example.userApp.controller;
 
-import com.example.demo.model.Child;
-import com.example.demo.model.Parent;
-import com.example.demo.repository.ChildRepository;
-import com.example.demo.repository.ParentRepository;
+import com.example.userApp.model.Child;
+import com.example.userApp.model.Parent;
+import com.example.userApp.repository.ChildRepository;
+import com.example.userApp.repository.ParentRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;

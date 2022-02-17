@@ -90,7 +90,7 @@
             }
         }
     </style>
-    <title>User Registration Form</title>
+    <title>User Update form</title>
 </head>
 <body>
 <div class="header">

@@ -1,7 +1,7 @@
-package com.example.demo.controller;
+package com.example.userApp.controller;
 
-import com.example.demo.repository.ChildRepository;
-import com.example.demo.repository.ParentRepository;
+import com.example.userApp.repository.ChildRepository;
+import com.example.userApp.repository.ParentRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

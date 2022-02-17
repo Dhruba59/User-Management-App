@@ -1,7 +1,7 @@
-package com.example.demo.repository;
+package com.example.userApp.repository;
 
-import com.example.demo.model.Child;
-import com.example.demo.model.Parent;
+import com.example.userApp.model.Child;
+import com.example.userApp.model.Parent;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

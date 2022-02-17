@@ -1,11 +1,11 @@
-package com.example.demo.controller;
+package com.example.userApp.controller;
 
-import com.example.demo.dto.ParentDTO;
-import com.example.demo.model.Address;
-import com.example.demo.model.Parent;
-import com.example.demo.repository.AddressRepository;
-import com.example.demo.repository.ChildRepository;
-import com.example.demo.repository.ParentRepository;
+import com.example.userApp.dto.ParentDTO;
+import com.example.userApp.model.Address;
+import com.example.userApp.model.Parent;
+import com.example.userApp.repository.AddressRepository;
+import com.example.userApp.repository.ChildRepository;
+import com.example.userApp.repository.ParentRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Controller;
@@ -44,7 +44,7 @@ public class ParentController {
         model.addAttribute("parentDTO", new ParentDTO());
         return "createParent";
     }
-    
+
 
     @PostMapping("create")
     public String createParent(@ModelAttribute ParentDTO parentDTO) {

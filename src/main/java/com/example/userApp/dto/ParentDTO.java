@@ -1,6 +1,6 @@
-package com.example.demo.dto;
+package com.example.userApp.dto;
 
-import com.example.demo.model.Parent;
+import com.example.userApp.model.Parent;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
