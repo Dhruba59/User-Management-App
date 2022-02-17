@@ -1,5 +1,5 @@
 # User-Management-App
-    A Web App with simple UI and CRUD operations using Java Spring Boot, H2 Database(Memory Based), JSP, JPA.
+  A Web App with simple UI and CRUD operations using Java Spring Boot, H2 Database(Memory Based), JSP, JPA.
 
 ## How to Run
     $ Install JAVA_17.0.2
@@ -16,4 +16,4 @@
     $ Simple UI using JSP
 
 ## Video Recording of Running App
-    https://www.loom.com/share/3d494173d46e46afb578281ca8b76d25
+  https://www.loom.com/share/3d494173d46e46afb578281ca8b76d25
